@@ -1,1 +1,1 @@
-This is an introductory website for fictional business Furniture Footwear, Inc, created for homework 1 in KIEI-451. It includes 3 pages which include common navigation and relative links, as well as basic HTML elements, all properly formatted.
+This is an introductory website for fictional business Furniture Footwear, Inc, created for homework 1 in KIEI-451. It consists of 3 pages which include common navigation and relative links, as well as basic HTML elements, all properly formatted.
